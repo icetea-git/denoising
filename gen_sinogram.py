@@ -13,8 +13,8 @@ MU_AIR = 0.02
 MU_MAX = 3071 * (MU_WATER - MU_AIR) / 1000 + MU_WATER
 
 # path to output
-SINOGRAM_PATH = '\\output\\sinogram'
-GROUND_TRUTH_PATH = '\\output\\ground_truth'
+SINOGRAM_PATH = '.\\output\\sinogram'
+GROUND_TRUTH_PATH = '.\\output\\ground_truth'
 
 FILE_LIST_FILE = 'data.json'
 
